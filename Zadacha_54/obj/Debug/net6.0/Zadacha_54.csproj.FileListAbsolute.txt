@@ -1,0 +1,15 @@
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/bin/Debug/net6.0/Zadacha_54
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/bin/Debug/net6.0/Zadacha_54.deps.json
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/bin/Debug/net6.0/Zadacha_54.runtimeconfig.json
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/bin/Debug/net6.0/Zadacha_54.dll
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/bin/Debug/net6.0/Zadacha_54.pdb
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.csproj.AssemblyReference.cache
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.AssemblyInfoInputs.cache
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.AssemblyInfo.cs
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.csproj.CoreCompileInputs.cache
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.dll
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/refint/Zadacha_54.dll
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.pdb
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/Zadacha_54.genruntimeconfig.cache
+/Users/olgakosuhina/Desktop/study/seminar_8_c#/homework_seminar_8/Zadacha_54/obj/Debug/net6.0/ref/Zadacha_54.dll
