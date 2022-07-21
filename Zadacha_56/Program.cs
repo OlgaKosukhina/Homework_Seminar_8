@@ -11,12 +11,13 @@
 int[,] InitMatrix(int rows, int columns)
 {
     int[,] matrix = new int[rows, columns];
+    Random randomizer = new Random();
 
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < columns; j++)
         {
-            matrix[i, j] = new Random().Next(1, 10);
+            matrix[i, j] = randomizer.Next(1, 10);
         }
     }
     return matrix;

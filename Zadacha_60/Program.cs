@@ -8,6 +8,14 @@
 int[,,] InitMatrix(int depth, int row, int columns)
 {
     int[,,] matrix = new int[depth, row, columns];
+    int[] unique = new int[100];
+    Random randomizer = new Random();
+    int tmp = 0;
+
+    for (int i = 0; i < unique.Length; i++)
+    {
+        unique[i] = 0;
+    }
 
     for (int i = 0; i < depth; i++)
     {
@@ -15,7 +23,13 @@ int[,,] InitMatrix(int depth, int row, int columns)
         {
             for (int k = 0; k < columns; k++)
             {
-                matrix[i, j, k] = new Random().Next(1, 10);
+                tmp = randomizer.Next(10, 100);
+                while (unique[tmp] != 0)
+                {
+                    tmp = randomizer.Next(10, 100);
+                }
+                matrix[i, j, k] = tmp;
+                unique[tmp] = 1;
             }
         }
     }

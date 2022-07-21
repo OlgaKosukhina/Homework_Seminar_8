@@ -14,7 +14,7 @@ int[,] InitMatrix(int rows, int columns)
     {
         for (int j = 0; j < columns; j++)
         {
-            matrix[i, j] = matrix[0, 0];
+            matrix[i, j] = 0;
         }
     }
     return matrix;
